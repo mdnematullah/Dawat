@@ -18,7 +18,7 @@ header {
       #000000b0,
       rgba(209, 220, 238, 0.13)
     ),
-    url(/images/background.jpg);
+    url(images/background.jpg);
   /* background-color: #151414; */
   position: relative;
   clip-path: polygon(0% 0%, 97% 0%, 100% 100%, 3% 100%);
@@ -188,7 +188,7 @@ left: 20rem;
 }
 #one{
   grid-area: image;
- background-image: url(/images/d1.jpg);
+ background-image: url(images/d1.jpg);
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;
@@ -253,21 +253,21 @@ box box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
 }
  #two{
   grid-area: image;
- background-image: url(/images/d2.jpg);
+ background-image: url(images/d2.jpg);
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;
 }
  #three{
   grid-area: image;
- background-image: url(/images/d3.jpg);
+ background-image: url(images/d3.jpg);
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;
 }
 #four{
   grid-area: image;
- background-image: url(/images/4.jpg);
+ background-image: url(images/4.jpg);
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;
@@ -326,26 +326,26 @@ transform: translateY(4px);
 }
 #eight{
   grid-area: image;
- background-image: url(/images/4\ \(1\).jpg);
+ background-image: url(images/4\ \(1\).jpg);
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;}
   #five{
     grid-area: image;
-   background-image: url(/images/4\ \(4\).jpg);
+   background-image: url(images/4\ \(4\).jpg);
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     background-size: cover;}
 
 #six{
   grid-area: image;
- background-image: url(/images/4\ \(3\).jpg);
+ background-image: url(images/4\ \(3\).jpg);
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;}
   #seven{
     grid-area: image;
-   background-image: url(/images/4\ \(2\).jpg);
+   background-image: url(images/4\ \(2\).jpg);
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     background-size: cover;}
@@ -386,20 +386,20 @@ text-align: center;
 }
 #nine{
   grid-area: image;
- background-image: url(/images/sundar-pichai.jpg);
+ background-image: url(images/sundar-pichai.jpg);
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;}
   #ten{
     grid-area: image;
-   background-image: url(/images/kgp2.jpg);
+   background-image: url(images/kgp2.jpg);
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     background-size: cover;}
 
     #eleven{
       grid-area: image;
-     background-image: url(/images/kgpdire.jpg);
+     background-image: url(images/kgpdire.jpg);
       border-top-left-radius: 15px;
       border-top-right-radius: 15px;
       background-size: cover;}

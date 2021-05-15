@@ -60,6 +60,7 @@ z-index: 9999999999999999999999999999;
 left: 20rem;
   z-index: 9999999999999;
   display: inline-flex;
+  top:0;
 }
 .home a {
   color: rgb(219, 168, 0);

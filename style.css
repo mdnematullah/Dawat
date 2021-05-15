@@ -60,7 +60,7 @@ z-index: 9999999999999999999999999999;
 left: 20rem;
   z-index: 9999999999999;
   display: inline-flex;
-  top:0;
+  top: 0;
 }
 .home a {
   color: rgb(219, 168, 0);
@@ -535,4 +535,45 @@ transform: scale(1.2);
 
   scroll-behavior: smooth;
  }
- 
+  #toggle{
+   display: none;
+ } 
+label{
+
+  display: none;
+
+}
+.homeham{
+
+  display: none;
+}
+@media only screen and (max-width:500px) {
+  label{
+    display: block;
+    cursor: pointer;
+    font-size: xx-large;
+  }
+  .home{
+    display: none;
+
+  }
+  .homeham{
+background-color: black;
+    
+    text-align: center;
+  }
+  .homeham a{
+font-size: xx-large;
+    display: block;
+    text-decoration: none; color: rgb(219, 168, 0);
+    line-height: 2em;
+    color: cadetblue;
+    
+    
+  }
+
+  #toggle:checked +.homeham{
+
+    display: block;
+  }
+}
